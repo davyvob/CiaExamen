@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+yJiV7hs4F5ucziTzrsvpouJ5EwRB84oFbtX5lSF13k0/pcdm3kdwYzmvMwiZgIxq/vswcD0yW52WO43SSYSQ==",
+  "dgSpecHash": "B8eyBTEhZYItranm4ONddy12fCiAYR8esqI7U+FVnnHm47gdKNDqVQZakjbQ0Ozk7VfN8YMEqI+BOIEXfUKq8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Web\\Howest.Prog.CoinChop.Web.csproj",
+  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Web\\Howest.Prog.CoinChop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davyv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\davyv\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

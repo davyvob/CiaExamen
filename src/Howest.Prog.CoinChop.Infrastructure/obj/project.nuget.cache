@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tARCn3TW9zNcLdP9DBdfE1+N+geyCeVa4Q2GrzUKsnka6spBCvt7IsLjmiET+8rVSrYxAhGhInA1rF7CN3GMQ==",
+  "dgSpecHash": "enk1jFyM2IVmG5yEzQHTeti8IaaJmBjxiV/Vi1uWZONMC4Z0TjrRqFHpX3xy5akv8wLYkqdMmyxJdxdazvBpMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Infrastructure\\Howest.Prog.CoinChop.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Infrastructure\\Howest.Prog.CoinChop.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davyv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\davyv\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

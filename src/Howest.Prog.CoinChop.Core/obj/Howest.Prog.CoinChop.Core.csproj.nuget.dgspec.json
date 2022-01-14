@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj": {}
+    "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj": {
+    "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj",
         "projectName": "Howest.Prog.CoinChop.Core",
-        "projectPath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj",
+        "projectPath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj",
         "packagesPath": "C:\\Users\\davyv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Core\\obj\\",
+        "outputPath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

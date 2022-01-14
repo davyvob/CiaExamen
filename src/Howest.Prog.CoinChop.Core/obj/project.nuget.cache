@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dchiwC8KAUNpIqtw5m5oQmhFU62Wo9c5Kq15iOmR8dsnvV91gJMGrMebcRxaPISFdnEhsVV99xfNUbdCeF6EMw==",
+  "dgSpecHash": "4mYQnFd1F7MDIewwPBOpAhXxAo2s8FXU+grdeR0OtReNj1Ny0eFpNuDUMkoveK6gdTfC30uWfbZsehd0PCBHVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj",
+  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Howest.Prog.CoinChop.Core\\Howest.Prog.CoinChop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davyv\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

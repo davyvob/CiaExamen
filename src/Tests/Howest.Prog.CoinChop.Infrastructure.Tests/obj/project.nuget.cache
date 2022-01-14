@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LuoQ5ZXXnllLQrXZPhyBYoH7nNRLDWcgM2N1S5rqpQXQ6uyVHBFVyjX2qdvcacTIaHkC+q1kzkCwxC2jqna/Rg==",
+  "dgSpecHash": "Dkj5u7eu07tPbQsDeZRDzBoQCq8Jls1QidvhN81hS4XWFpJuR/Wt1UykF/gaLls/55o0tviWpaN9HqCK3yeLWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaPrepExamen\\src\\Tests\\Howest.Prog.CoinChop.Infrastructure.Tests\\Howest.Prog.CoinChop.Infrastructure.Tests.csproj",
+  "projectFilePath": "C:\\Users\\davyv\\OneDrive\\Bureaublad\\Continuous integration advanved\\Examen Prep\\CiaExamen\\src\\Tests\\Howest.Prog.CoinChop.Infrastructure.Tests\\Howest.Prog.CoinChop.Infrastructure.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davyv\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\davyv\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
