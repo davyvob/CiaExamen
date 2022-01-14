@@ -6,7 +6,7 @@ namespace Howest.Prog.CoinChop.Infrastructure.Data
     public class CoinChopDataContext : DbContext
     {
         public DbSet<ExpenseGroup> ExpenseGroups { get; set; }
-        public DbSet<Member> Members { get; set }
+        public DbSet<Member> Members { get; set; }
         public DbSet<Expense> Expenses { get; set; }
 
         public CoinChopDataContext(DbContextOptions<CoinChopDataContext> options) : base(options)
