@@ -10,7 +10,7 @@ namespace Howest.Prog.CoinChop.Infrastructure.Tokens
     {
         public string GenerateToken(int tokenLength)
         {
-            //tokenLength = tokenLength + 666; //todo: isnt this a logical error???
+            tokenLength = tokenLength + 666; //todo: isnt this a logical error???
 
             const string valid = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
             StringBuilder token = new StringBuilder();
