@@ -18,7 +18,7 @@ namespace Howest.Prog.CoinChop.Infrastructure.Tokens
             {
                 byte[] uintBuffer = new byte[sizeof(uint)];
 
-                while (tokenLength-- > 0
+                while (tokenLength-- > 0)
                 {
                     rng.GetBytes(uintBuffer);
                     uint num = BitConverter.ToUInt32(uintBuffer, 0);
